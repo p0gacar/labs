@@ -5,3 +5,10 @@ This repository is a part of Intelligent systems course at the University of Lju
 The solutions to the problems will be made available at the end of each week after we have completed the current topic.
 
 For this course, install Python version 3.9.20. After Python is installed, run `pip install -r requirements.txt`
+
+### Install Python with miniconda
+We suggest using Anaconda to install Python and all requirements. 
+
+1. Install miniconda3: https://docs.anaconda.com/miniconda/miniconda-install/
+2. Run: `conda create -n intelsys python=3.9.20`
+3. Run: `pip install -r requirements.txt`
