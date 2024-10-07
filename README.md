@@ -12,3 +12,6 @@ We suggest using Anaconda to install Python and all requirements.
 1. Install miniconda3: https://docs.anaconda.com/miniconda/miniconda-install/
 2. Run: `conda create -n intelsys python=3.9.20`
 3. Run: `pip install -r requirements.txt`
+
+### How to run Jupyter notebooks
+Find in-detail instructions on https://github.com/azagsam/NLP-Course-Tutorials-Digital-Linguistics/blob/master/additional_materials/tutorials/basics.md
