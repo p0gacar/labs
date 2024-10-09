@@ -15,3 +15,6 @@ We suggest using Anaconda to install Python and all requirements.
 
 ### How to run Jupyter notebooks
 Find in-detail instructions on https://github.com/azagsam/NLP-Course-Tutorials-Digital-Linguistics/blob/master/additional_materials/tutorials/basics.md
+
+### Using Jupyter notebooks in VS Code
+Follow the instructions: https://code.visualstudio.com/docs/datascience/jupyter-notebooks
